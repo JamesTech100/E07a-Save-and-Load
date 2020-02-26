@@ -1,5 +1,7 @@
 # E07a-Save-and-Load    
 
+-- The following assignment has been completed by James Ashcraft
+
 This is an opportunity for you to practice the simplest form of saving state in Godot, saving to a config file.
 
 As always, Fork and Clone this repository.
